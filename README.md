@@ -1,7 +1,7 @@
 <h1 align="center">ADOPTBUDDY</h1>
 <p>AdoptBuddy sitesinin amacı, evcil veya sokak hayvanlarının güvenli ve kalıcı yuvalara sahip olmasını sağlamaktır. Bu amaca ulaşmak için sahipsiz, evden kaçmış veya kişinin kendi sahiplendirdiği evcil hayvanları, onları sahiplenmek isteyen kişilerle buluşturur.</p>
 
-<p> ReactJS kütüphanesini kullanarak yapılan projede sahiplendirilecek hayvanın fotoğraf ve bilgilerini içeren ilanları paylaşabileceği ve kullanıcıların kendi ilanlarını yönetebileceği bir arayüz sunar. Kullanıcı, ilanları sahiplenmek istediği hayvana göre filtreleyebilmektedir.
+<p> MERN stack (MongoDB, Express.js, React, Node.js) kullanılarak yapılan full stack projede sahiplendirilecek hayvanın fotoğraf ve bilgilerini içeren ilanları paylaşabileceği ve kullanıcıların kendi ilanlarını yönetebileceği bir arayüz sunar. Kullanıcı, ilanları sahiplenmek istediği hayvana göre filtreleyebilmektedir.
 </p>
 
 <div>
